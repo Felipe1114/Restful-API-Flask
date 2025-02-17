@@ -1,0 +1,307 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "id": 3,
+        "title": "Moby Dick",
+        "author": "Herman Melville"
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 6,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "id": 7,
+        "title": "Hamlet",
+        "author": "William Shakespeare"
+    },
+    {
+        "id": 8,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger"
+    },
+    {
+        "id": 9,
+        "title": "Brave New World",
+        "author": "Aldous Huxley"
+    },
+    {
+        "id": 10,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "id": 11,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling"
+    },
+    {
+        "id": 12,
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling"
+    },
+    {
+        "id": 13,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling"
+    },
+    {
+        "id": 14,
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling"
+    },
+    {
+        "id": 15,
+        "title": "Harry Potter and the Order of the Phoenix",
+        "author": "J.K. Rowling"
+    },
+    {
+        "id": 16,
+        "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling"
+    },
+    {
+        "id": 17,
+        "title": "Harry Potter and the Deathly Hallows",
+        "author": "J.K. Rowling"
+    },
+    {
+        "id": 18,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "id": 19,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury"
+    },
+    {
+        "id": 20,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky"
+    },
+    {
+        "id": 21,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky"
+    },
+    {
+        "id": 22,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez"
+    },
+    {
+        "id": 23,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes"
+    },
+    {
+        "id": 24,
+        "title": "Ulysses",
+        "author": "James Joyce"
+    },
+    {
+        "id": 25,
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert"
+    },
+    {
+        "id": 26,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde"
+    },
+    {
+        "id": 27,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "id": 28,
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte"
+    },
+    {
+        "id": 29,
+        "title": "The Odyssey",
+        "author": "Homer"
+    },
+    {
+        "id": 30,
+        "title": "Les Mis\u00e9rables",
+        "author": "Victor Hugo"
+    },
+    {
+        "id": 31,
+        "title": "The Iliad",
+        "author": "Homer"
+    },
+    {
+        "id": 32,
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas"
+    },
+    {
+        "id": 33,
+        "title": "Great Expectations",
+        "author": "Charles Dickens"
+    },
+    {
+        "id": 34,
+        "title": "David Copperfield",
+        "author": "Charles Dickens"
+    },
+    {
+        "id": 35,
+        "title": "Dracula",
+        "author": "Bram Stoker"
+    },
+    {
+        "id": 36,
+        "title": "Frankenstein",
+        "author": "Mary Shelley"
+    },
+    {
+        "id": 37,
+        "title": "The Stranger",
+        "author": "Albert Camus"
+    },
+    {
+        "id": 38,
+        "title": "The Road",
+        "author": "Cormac McCarthy"
+    },
+    {
+        "id": 39,
+        "title": "The Shining",
+        "author": "Stephen King"
+    },
+    {
+        "id": 40,
+        "title": "It",
+        "author": "Stephen King"
+    },
+    {
+        "id": 41,
+        "title": "Dune",
+        "author": "Frank Herbert"
+    },
+    {
+        "id": 42,
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss"
+    },
+    {
+        "id": 43,
+        "title": "The Way of Kings",
+        "author": "Brandon Sanderson"
+    },
+    {
+        "id": 44,
+        "title": "Mistborn",
+        "author": "Brandon Sanderson"
+    },
+    {
+        "id": 45,
+        "title": "The Book Thief",
+        "author": "Markus Zusak"
+    },
+    {
+        "id": 46,
+        "title": "The Fault in Our Stars",
+        "author": "John Green"
+    },
+    {
+        "id": 47,
+        "title": "Looking for Alaska",
+        "author": "John Green"
+    },
+    {
+        "id": 48,
+        "title": "Norwegian Wood",
+        "author": "Haruki Murakami"
+    },
+    {
+        "id": 49,
+        "title": "Kafka on the Shore",
+        "author": "Haruki Murakami"
+    },
+    {
+        "id": 50,
+        "title": "The Wind-Up Bird Chronicle",
+        "author": "Haruki Murakami"
+    },
+    {
+        "id": 51,
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "id": 52,
+        "title": "A Farewell to Arms",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "id": 53,
+        "title": "For Whom the Bell Tolls",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "id": 54,
+        "title": "Catch-22",
+        "author": "Joseph Heller"
+    },
+    {
+        "id": 55,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho"
+    },
+    {
+        "id": 56,
+        "title": "Life of Pi",
+        "author": "Yann Martel"
+    },
+    {
+        "id": 57,
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut"
+    },
+    {
+        "id": 58,
+        "title": "The Stand",
+        "author": "Stephen King"
+    },
+    {
+        "id": 59,
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin"
+    },
+    {
+        "id": 60,
+        "title": "A Clash of Kings",
+        "author": "George R.R. Martin"
+    },
+    {
+        "id": 61,
+        "title": "Hanni und Nanni",
+        "author": "Johanna Prinz"
+    }
+]

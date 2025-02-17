@@ -1,7 +1,7 @@
 import json
 
 class StorageApplications:
-    def __init__(self, filename="../programm_storage/books.json"):
+    def __init__(self, filename="./programm_storage/books.json"):
         self.filename = filename
         self._ensure_file_exists()
 
